@@ -1,3 +1,3 @@
 "use strict";
 
-console.log(13%4);
+alert(13%4);
